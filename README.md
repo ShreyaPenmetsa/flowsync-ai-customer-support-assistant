@@ -15,3 +15,7 @@ A workflow design and set of success metrics demonstrating how AI integration ca
 
 ## Skills Demonstrated
 Business Analysis · AI Integration · Process Improvement · Requirements Gathering · User Stories · Customer Experience · Workflow Design · Product Thinking · Success Metrics
+
+https://public.tableau.com/app/profile/shreya.penmetsa/viz/FlowSync-AICustomerSupportAssistant/FlowSyncAISupportCommandCenter
+<img width="1998" height="1598" alt="IMG_0490" src="https://github.com/user-attachments/assets/ca80aca7-fa8a-4be5-8ac3-20dbac8413fd" />
+
